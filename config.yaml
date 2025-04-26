@@ -1,0 +1,13 @@
+# config.yaml
+scenario_name: "C3_vs_T3"
+player_side: "Taiwan"
+player_side1: "China"
+scenario_script_folder_name: "MyDQN"
+debug_mode: false
+agent:
+  ac_name1: "1101 Cheng Kung [Perry Class, Kuang Hua I]"
+  ac_name2: "932 Chi Yang [Knox, Wu Chin III AAW]"
+  ac_name3: "530 Wu Yi"
+  target_name1: "Type 054A Jiangkai II Mod"
+  target_name2: "Type 052D Luyang III [155 Nanjing]"
+  target_name3: "Type 071 Yuzhao [986 Siming Shan]"
